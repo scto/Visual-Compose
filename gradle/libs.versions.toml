@@ -3,7 +3,7 @@ agp = "8.6.0"
 kotlin = "2.0.21"
 
 core-ktx = "1.13.1"
-lifecycle-runtime-ktx = "2.8.6"
+lifecycle-runtime-ktx = "2.8.7"
 
 android-jvm = "17"
 android-compileSdk = "34"
